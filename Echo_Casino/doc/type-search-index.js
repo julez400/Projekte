@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"EchoApp"},{"p":"<Unnamed>","l":"Einleser"},{"p":"<Unnamed>","l":"RouletteApp"},{"p":"<Unnamed>","l":"RouletteWheel"},{"p":"<Unnamed>","l":"Slot"},{"p":"<Unnamed>","l":"SlotApp"},{"p":"<Unnamed>","l":"Zahlengenerator"}]
